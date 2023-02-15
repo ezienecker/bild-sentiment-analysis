@@ -47,7 +47,7 @@ class ArticleRepository {
     }
 
     /**
-     * Teilt die uebergeben Liste in kleinere Listen auf und speichert sie als Batch in die Datenbank
+     * Teilt die uebergebene Liste in kleinere Listen auf und speichert sie als Batch in die Datenbank
      *
      * @param articles Liste der zu speichernden Artikel
      */
@@ -75,7 +75,7 @@ class ArticleRepository {
     }
 
     /**
-     * Speichert das uebergeben Artikel Dto in die Datenbank
+     * Speichert das uebergebene Artikel Dto in die Datenbank
      *
      * @param articleDto der zu speichernde Artikel als Dto
      */
@@ -106,7 +106,7 @@ class ArticleRepository {
     }
 
     /**
-     * Aktualisiert ein Artikel mit dem uebergeben Artikel Dto in der Datenbank
+     * Aktualisiert ein Artikel mit dem uebergebenen Artikel Dto in der Datenbank
      *
      * @param articleDto Zu aktualisierender Artikel als Dto
      */

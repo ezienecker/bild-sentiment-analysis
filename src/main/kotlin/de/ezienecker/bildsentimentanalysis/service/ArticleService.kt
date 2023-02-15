@@ -19,7 +19,7 @@ interface ArticleService {
     fun getRelevantFilesFromDirectory(path: String): List<File>
 
     /**
-     * Methode die eine Datei Artikel Data Transfer Objects umwandelt
+     * Methode die eine Datei in ein Artikel Data Transfer Object umwandelt
      *
      * @param file Datei die ein Artikel entspricht
      * @return Gibt ein Artikel umgewandelt als Artikel Data Transfer Objekte zurueck

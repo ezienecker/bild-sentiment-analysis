@@ -20,7 +20,7 @@ class ElectionRepository {
     }
 
     /**
-     * Teilt die uebergeben Liste in kleinere Listen auf und speichert sie als Batch in die Datenbank
+     * Teilt die uebergebene Liste in kleinere Listen auf und speichert sie als Batch in die Datenbank
      *
      * @param elections Liste der zu speichernde Umfragewerte
      */

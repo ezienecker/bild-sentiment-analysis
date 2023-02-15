@@ -23,7 +23,7 @@ class SentenceRepository {
     }
 
     /**
-     * Teilt die uebergeben Liste in kleinere Listen auf und speichert sie als Batch in die Datenbank
+     * Teilt die uebergebene Liste in kleinere Listen auf und speichert sie als Batch in die Datenbank
      *
      * @param sentences Liste der zu speichernden Saetze
      */

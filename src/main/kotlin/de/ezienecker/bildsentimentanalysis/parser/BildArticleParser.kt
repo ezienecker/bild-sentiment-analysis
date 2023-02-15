@@ -49,7 +49,7 @@ class BildArticleParser : ArticleParser {
         .text()
 
     /**
-     * Methode um den Artikel eines Artikels Dokuments zu extrahieren
+     * Methode um den Hauptteil eines Artikels zu extrahieren
      *
      * @return Gibt den Artikel Inhalt als String zurueck
      */
@@ -84,7 +84,7 @@ class BildArticleParser : ArticleParser {
     }
 
     /**
-     * Extrahiert den Datumsteil des Dateipfad
+     * Extrahiert den Datumsteil aus den Dateipfad
      *
      * @return Gibt den Datumsteil des Dateipfad als String zurueck
      */
